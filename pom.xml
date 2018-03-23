@@ -101,11 +101,11 @@
 			<version>2.0.1</version>
 		</dependency>
 
-		<dependency>
+		<!-- <dependency>
 			<groupId>lt.jave</groupId>
 			<artifactId>jave</artifactId>
 			<version>1.0.2</version>
-		</dependency>
+		</dependency> -->
 
 		<dependency>
 			<groupId>commons-codec</groupId>
@@ -161,11 +161,11 @@
 			<version>1.0.27</version>
 		</dependency>
 
-		<dependency>
+		<!-- <dependency>
 			<groupId>org.lionsoul.ip2region</groupId>
 			<artifactId>ip2region</artifactId>
 			<version>1.2.4</version>
-		</dependency>
+		</dependency> -->
 
 		<dependency>
 			<groupId>com.lmax</groupId>
